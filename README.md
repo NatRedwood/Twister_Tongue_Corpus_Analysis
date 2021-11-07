@@ -36,8 +36,8 @@ To conduct the analysis and draw conclusions about the corpus, I process the cor
 - Twister Tongue Corpus [link](https://github.com/Nwojarnik/Twister_Tongue_Corpus_Analysis/blob/main/Tongue_Twister_Corpus.txt))
 
 ## Project files:
-1. How  many words do I know in Polish **@PDF**: [link](https://github.com/Nwojarnik/how_many_words_I_know_in_Polish_project/blob/main/How%20many%20words%20do%20I%20know%20in%20Polish.pdf)
-2. Twister Tongue Corpus Analysis **JUPYTER: [link](https://github.com/Nwojarnik/Twister_Tongue_Corpus_Analysis/blob/main/Tongue_Twister_Anlysis%20JUPYTER.ipynb)
+1. How  many words do I know in Polish **PDF**: [link](https://github.com/Nwojarnik/how_many_words_I_know_in_Polish_project/blob/main/How%20many%20words%20do%20I%20know%20in%20Polish.pdf)
+2. Twister Tongue Corpus Analysis **JUPYTER**: [link](https://github.com/Nwojarnik/Twister_Tongue_Corpus_Analysis/blob/main/Tongue_Twister_Anlysis%20JUPYTER.ipynb)
 3. Twister Tongue Corpus Analysis **PY**: [link](https://github.com/Nwojarnik/Twister_Tongue_Corpus_Analysis/blob/main/Twister_Tongue_Analysis%20PYTHON.py)
 
 ## Project plots and graphs
